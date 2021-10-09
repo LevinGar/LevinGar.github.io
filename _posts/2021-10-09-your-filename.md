@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A NEW POST
+title: A NEWEST POST
 published: true
 ---
 ## A New Post
