@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Titulo modificado
+title: A NEW POST
 published: true
 ---
 ## A New Post
