@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Introduction Week - Getting started 
+## Getting started 
 
 In this essay, I explain the different things I have learned during the first week of the Ecora Academy, besides mentioning the different topics that were cover during the week, I explain the most significant stuff that I learned and how those learnings impact the way I work and my habits.
 This was the week when everything started. I was excited as the rest of the apprentices as well. I was very curious about what this program was going to cover and excited in meeting the rest of the apprentices and staff members. In the beginning, everything was just expectations, then, after having some sessions, talks, reading some content, networking with some Encorias and other apprentices, I got convinced that this program is worthy, and I still am.  
