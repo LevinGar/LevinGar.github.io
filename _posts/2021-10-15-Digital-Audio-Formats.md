@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Lighting Talk’s Topic Information
 ### What was the main improvement that allowed phones being capable of playing real songs? Of course, this is related to storage but digital audio formats had an important role on this.
@@ -57,4 +57,3 @@ The bit depth determines how much information can be stored. A sampling with 24-
 In summary, sample rate is the number of audio samples recorded per unit of time and bit depth measures how precisely the samples were encoded. Finally, the bit rate is the amount of bits that are recorded per unit of time.
 
 In video terminology, container format is a type of file format that contains various types of data compressed by standardized codecs. Container formats are essentially wrappers in that they don’t specify what codec the container format uses, but rather it defines how the video, audio and other data is stored within the container. Examples of container formats include IFF, WAV, AVI, Ogg and 3GP.
-
