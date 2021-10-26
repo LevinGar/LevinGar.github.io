@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Lighting Talk’s Topic Information
 
