@@ -2,6 +2,7 @@
 published: true
 ---
 ## Lighting Talk’s Topic Information
+Instead of analysts manually compiling spreadsheets, modern BI platforms can access, analyze, display, and share data via web-based dashboards. With a powerful, automated business intelligence tool, stakeholders can build dashboards to review, draw conclusions, and act.
 
 What is Business Intelligence? 
 * Originally emerged in the 1960s as a system of sharing information across organizations. 
