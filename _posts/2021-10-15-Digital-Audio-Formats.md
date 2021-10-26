@@ -2,7 +2,7 @@
 published: true
 ---
 ## Lighting Talk’s Topic Information
-### What was the main improvement that allowed phones being capable of playing real songs? Of course, this is related to storage but digital audio formats had an important role on this.
+What was the main improvement that allowed phones being capable of playing real songs? Of course, this is related to storage but digital audio formats had an important role on this.
 
 When I was choosing a topic for this lighting talk, I wanted to pick something related to what we daily interact with, then mobile phones came up to my mind, and I started looking at the history of the features that have been added to phones over time, and then I remembered the big boom of the MP3 when phones were capable of reproducing real songs, and I had a question - What was the main improvement that allowed phones being capable of playing real songs? Of course, this is related to storage but digital audio formats had an important role on this.
 
