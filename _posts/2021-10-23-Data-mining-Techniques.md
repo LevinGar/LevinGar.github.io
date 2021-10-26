@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Lighting Talk's Topic Information
 
@@ -47,5 +47,3 @@ In many cases, simply recognizing the overarching pattern can’t give you a cle
 For example, if your purchasers are almost exclusively male, but during one strange week in July, there’s a huge spike in female purchasers, you’ll want to investigate the spike and see what drove it, so you can either replicate it or better understand your audience in the process.
 
 These methodologies are used to identify the data that can give us valuable knowledge of what are we analyzing
-
-
