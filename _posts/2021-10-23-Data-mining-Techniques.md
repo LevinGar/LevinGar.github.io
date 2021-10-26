@@ -2,7 +2,6 @@
 published: true
 ---
 ## Lighting Talk's Topic Information
-
 Like how mining for gold is digging through earth and rock to find valuable bits
 data mining is digging through large sets of data to find hidden valuable information and identify patterns. 
 
