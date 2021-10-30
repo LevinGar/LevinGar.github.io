@@ -17,3 +17,21 @@ The goal of the book is to educate a wide audience about how computers function.
 
 Starting with binary data representation using morse code, it progresses through non-base-10 number systems, telegraphs, electromagnets, and the creation of the relay, a flip-flop switch that permits temporary storage of a single bit. All of this leads to a fantastic chapter in which you utilize this technology to create a complete working computer in your mind's eye.
 You can understand this book if you can do basic math. That seems to be the idea. That computers are simple and should be simple to understand. Though I'm sure some people will think this isn't detailed enough. But the idea is that knowing extensively will give you lots a variety of entrances into programming and computer science. It will clarify a lot of things and make the route look less terrifying and out of reach. This book does a fantastic job at it. High-level programmers will feel less unsecure about their lack of understanding of the underlying principles of whatever they're working on.
+
+###Summary of Learnings
+
+- The book was written in 1999 and it is highly relevant
+- It fill the gaps of how a computer works
+- Breaks down code
+- It shows not only how code works but it shows from the beginning of what code means
+- How little discrete pieces of information translate into words 
+- How bits work inside a computer through transistors that hold electrical charge
+- The fact that a transistor hold a charge or not, it is a piece of information 
+- Electrical circuits that need to happen to make a division, multiplication, etc 
+- Basic pieces of a computer function
+- By the end of the book you have an complete idea of how a computer work
+- How code is turned into electrical charges that are going to be manipulated physically in a cpu
+- The book doesn’t teach you how to code or do data science
+- Why computers are built the way they are
+- Logic gates
+- How logic gates are used to do maths
