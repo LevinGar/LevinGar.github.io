@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Code. The Hidden Language of Computer Hardware and Software
 The following content is a review of the book "Code. The Hidden Language of Computer Hardware and Software" where I give my personal opinion, learnings, and how this book was relevant to me. Additionally, I bring some sketches and bullet points about the most relevant parts of the book, and the main learnings I got from it.
