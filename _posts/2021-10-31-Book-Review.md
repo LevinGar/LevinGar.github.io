@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-##Passionate Programmer Review
+## Passionate Programmer Review
 The following content is a review of the book “The Passionate Programmer” where I give my personal opinion, learnings, and I show using bullet points the main learnings I got from this book while reading it.
 
 While reading this book, I discovered that it contains a variety of life and professional lessons that can be applied not only in the IT field but also in other fields. The majority of the examples it provides are based on Char Fowler's personal experiences in the IT field, but those experiences are about achieving our goals in life, how to interact with others, how to adapt to a changing environment, and most importantly, how to forge your own path, at least for me.
