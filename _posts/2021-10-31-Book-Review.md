@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ##Passionate Programmer Review
 The following content is a review of the book “The Passionate Programmer” where I give my personal opinion, learnings, and I show using bullet points the main learnings I got from this book while reading it.
