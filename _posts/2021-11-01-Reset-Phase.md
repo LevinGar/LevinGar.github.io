@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Month 1
 This essay will provide an overview of the many personal learnings I gained through the program's first phase. One month's worth of lessons synthesized in a concise and comprehensive manner.
@@ -45,6 +45,3 @@ As with the books, the content shown in the different lighting talks I gave is a
 - [Digital Audio Formats](https://levingar.github.io/Digital-Audio-Formats/ "Digital Audio Formats")
 
 - [Data Mining Techniques](https://levingar.github.io/Data-mining-Techniques/ "Data Mining Techniques")
-
-
-
