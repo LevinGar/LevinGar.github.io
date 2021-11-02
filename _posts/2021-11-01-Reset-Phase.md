@@ -32,9 +32,9 @@ From this course, I have learned many other things such as understanding how my 
 ### Books  
 A considerable part of the learnings I had during this phase comes from the books I have read, you will find reviews of these books and the learnings I got from them. You can find them by navigating the main page of this blog, or by accessing the following links.  
 
-- [Code Review Link](https://levingar.github.io/Book-Review/ "Code. The Hidden Language of Computer Hardware and Software Book Review")
+- [Code. The Hidden Language of Computer Hardware and Software Book Review](https://levingar.github.io/Book-Review/ "Code. The Hidden Language of Computer Hardware and Software Book Review")
 
-- [Book Review 2](https://levingar.github.io/Book-Review-2/ "The Passionate Programmer Review")
+- [The Passionate Programmer Review](https://levingar.github.io/Book-Review-2/ "The Passionate Programmer Review")
 
 
 ### Lighting Talks  
