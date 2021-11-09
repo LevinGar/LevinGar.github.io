@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Petnder,Drintern,Streamder
 In this post, the hypothesis, Experiment Description, validation, and results of three different pretotypes are shown. In order of identifying the feasibility of these projects, a survey was given to people where they had the link to access the pretotypes and a set of questions to gather all the necessary data needed to perform the validation process.
